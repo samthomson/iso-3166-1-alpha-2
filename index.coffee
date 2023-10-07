@@ -282,8 +282,10 @@ class Iso31661a2
         YE: "Yemen"
         ZM: "Zambia"
         ZW: "Zimbabwe"
-        # // todo: KOSOVO
-        # // todo: SCOTLAND
+        XK: "Kosovo"
+        XE: "England"
+        XW: "Wales"
+        XS: "Scotland"
 
 singleton = null
 

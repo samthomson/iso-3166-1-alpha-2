@@ -4,7 +4,8 @@
   "description": "Simple module providing ISO-3166-1-alpha-2 country code to english country name lookup and reverse lookup",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "coffee --compile index.coffee"
   },
   "keywords": [
     "iso-3166-1-alpha-2",
@@ -26,5 +27,8 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/georgzoeller/iso-3166-1-alpha-2.git"
+  },
+  "devDependencies": {
+    "coffeescript": "^2.7.0"
   }
 }
