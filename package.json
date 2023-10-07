@@ -1,6 +1,6 @@
 {
-  "name": "iso-3166-1-alpha-2",
-  "version": "1.0.0",
+  "name": "iso-country-lookup",
+  "version": "1.0.2",
   "description": "Simple module providing ISO-3166-1-alpha-2 country code to english country name lookup and reverse lookup",
   "main": "index.js",
   "scripts": {
@@ -15,18 +15,18 @@
     "countries",
     "name"
   ],
-  "author": "Georg Zoeller",
+  "author": "Georg Zoeller / samthomson",
   "license": "MIT",
   "dependencies": {
     "mout": "^1.2.3"
   },
-  "homepage": "https://github.com/georgzoeller/iso-3166-1-alpha-2",
+  "homepage": "https://github.com/samthomson/iso-3166-1-alpha-2",
   "bugs": {
-    "url": "https://github.com/georgzoeller/iso-3166-1-alpha-2/issues"
+    "url": "https://github.com/samthomson/iso-3166-1-alpha-2/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/georgzoeller/iso-3166-1-alpha-2.git"
+    "url": "git://github.com/samthomson/iso-3166-1-alpha-2.git"
   },
   "devDependencies": {
     "coffeescript": "^2.7.0"
