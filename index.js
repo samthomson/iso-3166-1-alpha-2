@@ -300,7 +300,8 @@
       XK: "Kosovo",
       XE: "England",
       XW: "Wales",
-      XS: "Scotland"
+      XS: "Scotland",
+      XZ: "Tibet"
     };
 
     return Iso31661a2;
