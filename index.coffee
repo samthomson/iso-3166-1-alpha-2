@@ -286,6 +286,7 @@ class Iso31661a2
         XE: "England"
         XW: "Wales"
         XS: "Scotland"
+        XZ: "Tibet"
 
 singleton = null
 
