@@ -230,7 +230,7 @@
       QA: "Qatar",
       RE: "Réunion",
       RO: "Romania",
-      RU: "Russian Federation",
+      RU: "Russia",
       RW: "Rwanda",
       BL: "Saint Barthélemy",
       SH: "Saint Helena, Ascension and Tristan da Cunha",
